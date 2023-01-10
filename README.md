@@ -5,3 +5,9 @@ Python is a high-level, general-purpose programming language.Python is dynamical
 I have created mutliple python projects where you can have a look 
 the index of all the projects are listed below:
 
+1. Rock Paper Scissor game
+2.
+3.
+4.
+5.
+6.
