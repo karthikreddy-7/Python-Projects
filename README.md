@@ -7,7 +7,7 @@ the index of all the projects are listed below:
 
 1. Rock Paper Scissor game
 2. Love Calculator
-3.
+3. PyPassword Generator
 4.
 5.
 6.
